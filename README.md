@@ -2,6 +2,9 @@ dview-progressbar
 ![Release](https://jitpack.io/v/dora4/dview-progressbar.svg)
 --------------------------------
 
+#### 卡片
+![DORA视图 王之测时计](https://github.com/user-attachments/assets/f60e52fe-1814-40ce-9cc6-90548816285a)
+
 #### Gradle依赖配置
 
 ```groovy
